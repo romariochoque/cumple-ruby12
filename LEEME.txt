@@ -1,0 +1,18 @@
+ARCHIVO DE CUMPLEAÑOS DE RUBY
+
+VISTA PREVIA
+Abre index.html en el navegador. Mantén index.html junto a la carpeta recuerdos; la página usa las fotos y videos de esa carpeta.
+
+CONTENIDO
+El sitio reúne 31 fotos, ilustraciones y videos compartidos, con un recorrido principal desde noviembre de 2025 hasta el cumpleaños del 14 de noviembre de 2026. Agosto y septiembre de 2025 aparecen como prólogo. En meses sin archivos visuales, añadí recuerdos del chat previamente identificados y los marqué como tales.
+
+EDITAR TEXTOS
+Pulsa “Personalizar textos” dentro de la página, toca un texto resaltado y escribe. Pulsa “Guardar cambios” en la barra inferior. El texto modificado se conserva en el navegador de ese dispositivo. También puedes editar index.html directamente.
+
+CAMBIAR O AÑADIR MEDIOS
+Los archivos están en recuerdos/. Para reemplazar una foto o video sin tocar el código, conserva el mismo nombre de archivo. Para añadir un archivo nuevo, cópialo a esa carpeta y añade su nombre, fecha y pie en la sección `months` de index.html. La imagen ilustrada `file_00000000472c71f5bec390e70decdc9f.png` se presenta expresamente como ilustración, no como fotografía.
+
+TAMAÑO
+La carpeta de medios ocupa aproximadamente 368 MB porque contiene los videos originales. Los videos no se cargan hasta abrirlos. Para compartir el sitio, conserva juntos index.html y la carpeta recuerdos/.
+
+Los textos de cada escena visual se limitan a lo que se reconoce en las imágenes o a su fecha de archivo. En los recuerdos del chat se indica que son referencias conversadas; no se inventan escenas para los meses sin fotos.
